@@ -1,0 +1,14 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local screenshots not needed for submission
+Screenshot *.png
+outputs/*_stock_data.csv
+
+# OS files
+Thumbs.db
+.DS_Store
